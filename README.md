@@ -1,19 +1,19 @@
-## 👩🏻‍💻Experience
+## 👩🏻‍💻 Experience
 
-* **LotteMart BOS JDK Upgrade Project**<br/>
-  2020.10 ~ current | Something like PMO..
+👉🏻 **LotteMart BOS JDK Upgrade Project**<br/>
+  Something like PMO.. | 2020. 10 ~ current
 
-* LotteRental MYOMEE online mall Dev&Ops<br/>
-  2017.09 ~ 2020.10 | Backend Admin Interface
+👉🏻 LotteRental MYOMEE online mall Dev&Ops<br/>
+  Backend Admin Interface | 2017. 09 ~ 2020. 10
 
-* LotteRental MYOMEE(Consumer Goods Platform) Project<br/>
-  2017.04 ~ 2017.09 | Frontend Testing
+👉🏻 LotteRental MYOMEE(Consumer Goods Platform) Project<br/>
+  Frontend Testing | 2017. 04 ~ 2017. 09
 
-* LotteMart & Toysrus online mall Dev&Ops<br/>
-  2016.11 ~ 2017.02 | Frontend
+👉🏻 LotteMart & Toysrus online mall Dev&Ops<br/>
+  Frontend | 2016. 11 ~ 2017. 02
 
-* LotteMart online mall Next Generation Project<br/>
-  2016.04 ~ 2016.11 | Testing
+👉🏻 LotteMart online mall Next Generation Project<br/>
+  Testing Support | 2016. 04 ~ 2016. 11
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkonpig&count_bg=%23943DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
