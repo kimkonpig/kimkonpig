@@ -1,6 +1,6 @@
 ## 👩🏻‍💻Experience
 
-* LotteMart BOS Upgrade Project<br/>
+* **LotteMart BOS JDK Upgrade Project**<br/>
   2020.10 ~ current | Something like PMO..
 
 * LotteRental MYOMEE online mall Dev&Ops<br/>
