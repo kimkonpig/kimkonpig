@@ -1,10 +1,12 @@
-### Hi there 👋
-#### Experience
+## 👩🏻‍💻Experience
+
+* LotteMart BOS Upgrade Project<br/>
+  2020.10 ~ current | Something like PMO..
 
 * LotteRental MYOMEE online mall Dev&Ops<br/>
   2017.09 ~ 2020.10 | Backend Admin Interface
 
-* LotteRental Consumer Goods Platform Project<br/>
+* LotteRental MYOMEE(Consumer Goods Platform) Project<br/>
   2017.04 ~ 2017.09 | Frontend Testing
 
 * LotteMart & Toysrus online mall Dev&Ops<br/>
