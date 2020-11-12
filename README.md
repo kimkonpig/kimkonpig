@@ -1,8 +1,11 @@
-## 👩🏻‍💻 Experience
+## :smiley: A Leisurely Routine
 
-**롯데마트 BOS JDK 버전 업그레이드 프로젝트**  
-👉🏻 사업관리 사전분석 | 2020. 10 ~ 현재
+### :purple_heart: Study
 
+**Learning JPA with Inflearn**  
+:seedling: 2020. 11 ~ 현재
+
+### :yellow_heart: Experience
 롯데렌탈 묘미 온라인몰 DevOps<br/>
 👉🏻 Backend Admin Interface | 2017. 09 ~ 2020. 10
 
