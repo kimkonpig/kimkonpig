@@ -3,7 +3,7 @@
 ### :purple_heart: Study
 
 **Learning JPA with Inflearn**  
-:seedling: 2020. 11 ~ 현재 (Post on [Naver Blog](https://blog.naver.com/PostList.nhn?blogId=kon_pig&from=postList&categoryNo=25))
+:seedling: Post on [Naver Blog](https://blog.naver.com/PostList.nhn?blogId=kon_pig&from=postList&categoryNo=25)
 
 ### :yellow_heart: Experience
 롯데렌탈 묘미 온라인몰 DevOps<br/>
