@@ -7,7 +7,7 @@
 
 ### :yellow_heart: Experience
 롯데마트 G마켓 출점 제휴 프로젝트<br/>
-👉🏻 분석 및 제안 지원 | 2020.11 ~
+👉🏻 Proposal support | 2020.11 ~
 
 롯데렌탈 묘미 온라인몰 DevOps<br/>
 👉🏻 Backend Admin Interface | 2017. 09 ~ 2020. 10
