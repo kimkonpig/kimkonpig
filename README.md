@@ -3,7 +3,7 @@
 ### :purple_heart: Study
 
 **JPA** :seedling: Post on [JPA HERE](https://blog.naver.com/PostList.nhn?blogId=kon_pig&from=postList&categoryNo=25) Update 2020. 12. 17<br/>
-**SPRING** :seedling: Post on [SPRING HERE](https://blog.naver.com/PostList.nhn?blogId=kon_pig&from=postList&categoryNo=96) Update 2020. 12. 28<br/>
+**SPRING** :seedling: Post on [SPRING HERE](https://blog.naver.com/PostList.nhn?blogId=kon_pig&from=postList&categoryNo=96) Update 2021. 01. 03<br/>
 
 ### :yellow_heart: Experience
 롯데마트 G마켓 출점 제휴 프로젝트<br/>
