@@ -2,13 +2,13 @@
 
 ### :purple_heart: Study
 
-**JPA** :seedling: Post on [JPA HERE](https://blog.naver.com/PostList.nhn?blogId=kon_pig&from=postList&categoryNo=25) Update 2020. 12. 17<br/>
+**JPA** :seedling: Post on [JPA HERE](https://blog.naver.com/kon_pig/222162533519) Update 2020. 12. 17<br/>
 **SPRING** :seedling: Post on [SPRING HERE](https://blog.naver.com/PostList.nhn?blogId=kon_pig&from=postList&categoryNo=96) Update 2021. 01. 03<br/>
 
 ### :yellow_heart: Experience
 #### :open_file_folder: 롯데마트 G마켓 출점 제휴 프로젝트<br/>
 :page_with_curl: PMO | 2020.11 ~<br/>
-<br/>
+- [JWT](https://blog.naver.com/kon_pig/222221936250), Rest API<br/>
 
 #### :open_file_folder: 롯데렌탈 묘미 온라인몰 DevOps<br/>
 :page_with_curl: Backend, Admin, I/F | 2017. 09 ~ 2020. 10<br/>
