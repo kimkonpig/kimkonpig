@@ -2,7 +2,7 @@
 
 ### :purple_heart: Study
 
-**JPA** :seedling: Post on [JPA HERE](https://blog.naver.com/kon_pig/222162533519) Update 2020. 12. 17<br/>
+**JPA** :seedling: Post on [JPA HERE](https://blog.naver.com/kon_pig/222162533519) Update 2021. 03. 09<br/>
 **SPRING** :seedling: Post on [SPRING HERE](https://blog.naver.com/PostList.nhn?blogId=kon_pig&from=postList&categoryNo=96) Update 2021. 01. 03<br/>
 
 ### :yellow_heart: Experience
