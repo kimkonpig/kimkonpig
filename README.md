@@ -7,7 +7,7 @@
 
 ### :yellow_heart: Experience
 #### :open_file_folder: 롯데마트 G마켓 출점 제휴 프로젝트<br/>
-:page_with_curl: PMO | 2020.11 ~<br/>
+:page_with_curl: PMO | 2020.12 ~ 2021.07<br/>
 - [JWT](https://blog.naver.com/kon_pig/222221936250), Rest API<br/>
 <br/>
 
