@@ -6,7 +6,7 @@
 **SPRING** :seedling: Post on [SPRING HERE](https://blog.naver.com/PostList.nhn?blogId=kon_pig&from=postList&categoryNo=96) Update 2021. 01. 03<br/>
 
 ### :yellow_heart: Experience
-#### :open_file_folder: 롯데마트 G마켓 출점 제휴 프로젝트<br/>
+#### :open_file_folder: 롯데마트 [G마켓](https://etapi.ebaykorea.com/) 출점 제휴 프로젝트<br/>
 :page_with_curl: PMO | 2020.12 ~ 2021.07<br/>
 - [JWT](https://blog.naver.com/kon_pig/222221936250), Rest API<br/>
 <br/>
