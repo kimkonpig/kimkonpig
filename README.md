@@ -1,56 +1,27 @@
-## :smiley: Records
+<div align=center> 
+  <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kimkonpig&show_icons=true&theme=dracula">
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <br>  
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <br><br>
+  
+  <!-- https://github.com/anuraghazra/github-readme-stats#top-languages-card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkonpig">
+  <br><br>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkonpig&count_bg=%23943DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+</div>  
 
-#### :open_file_folder: 롯데마트 [G마켓](https://etapi.ebaykorea.com/) 출점 제휴 프로젝트<br/>
-:page_with_curl: PMO | 2020.12 ~ 2021.07<br/>
-- [JWT](https://blog.naver.com/kon_pig/222221936250), Rest API<br/>
-<br/>
-
-#### :open_file_folder: 롯데렌탈 묘미 온라인몰 DevOps<br/>
-:page_with_curl: Backend, Admin, I/F | 2017. 09 ~ 2020. 10<br/>
-- Back-Office(BO) BackEnd Dev - ORDER, VOC, DELI, PARTNERS<br/>
-- Back-Office(BO) Admin Dev<br/>
-- Response to business inquiry<br/>
-- Batch, Interface Dev&Operation<br/>
-
-:mag_right: Using..<br/>
-- Java, Javascript, Oracle, Mybatis, Procedure<br/>
-- Spring Framework, Maven, Nexacro<br/>
-- ETL, EAI, FEP / Tibco, Spoon, Pentaho<br/>
-<br/>
-
-#### :open_file_folder: 롯데렌탈 묘미 구축 프로젝트<br/>
-:page_with_curl: Frontend Testing | 2017. 04 ~ 2017. 09<br/>
-<br/>
-
-#### :open_file_folder: 롯데마트 토이저러스 온라인몰 DevOps<br/>
-:page_with_curl: Frontend | 2016. 11 ~ 2017. 02<br/>
-- LotteMart&Toysrus FE Dev<br/>
-
-:mag_right: Using..<br/>
-- Java, Jsp, Oracle<br/>
-<br/>
-
-#### :open_file_folder: 롯데마트 차세대 BOS 프로젝트<br/>
-:page_with_curl: Test Support | 2016. 04 ~ 2016. 11<br/>
-- Toysrus FrontEnd Event Page Dev(After Test support)<br/>
-
-:mag_right: Using..<br/>
-- Java, Jsp, Oracle
-<br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkonpig&count_bg=%23943DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!--
-**kimkonpig/kimkonpig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <img src=""> -->
+<!-- 마크다운 뱃지는 아래 url에서 -->
+<!-- https://github.com/Ileriayo/markdown-badges -->
